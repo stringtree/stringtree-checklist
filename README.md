@@ -1,4 +1,4 @@
-# module-tsl-checklist
+# stringtree-checklist
 
 A simple helper to get round the problem of checking returned collections.
 
