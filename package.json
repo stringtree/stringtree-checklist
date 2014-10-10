@@ -1,0 +1,15 @@
+{
+  "name": "stringtree-checklist",
+  "version": "0.1.0",
+  "description": "A simple helper to get round the problem of checking returned collections.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test_all.js"
+  },
+  "dependencies": {
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "tape": "^3.0.0"
+  }
+}
